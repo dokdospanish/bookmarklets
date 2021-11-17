@@ -9,7 +9,7 @@
 
 ## 배포할 때
 
-링크의 href로 추가하기 전에 인코딩 필요. [이와 같은 사이트 사용 가능](https://www.urlencoder.org/)
+링크의 href로 추가하기 전에 인코딩 필요. [이와 같은 파일 변환 사이트 사용 가능](https://www.urlencoder.org/)
 
 ## 더 배우기
 
